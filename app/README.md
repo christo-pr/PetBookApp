@@ -1,5 +1,21 @@
-# NativeScript Tutorial Angular Template
+## PetScrap Book app
 
-This repo serves as the starting point for NativeScript’s [Angular Getting Started Guide](https://docs.nativescript.org/angular/tutorial/ng-chapter-0).
+This is an example app build with [Nativescript](https://docs.nativescript.org/).
 
-Please file any issues with this template on the [NativeScript/docs repository](https://github.com/nativescript/docs), which is where the tutorial content lives.
+### Run local
+
+To run the project local just clone it:
+
+```bash
+git clone https://github.com/CrystalStream/PetBookApp.git
+```
+
+Then...
+
+```javascript
+tns run ios
+```
+
+and after that you will be able to store all your pet's information!.
+
+#### ENJOY!
